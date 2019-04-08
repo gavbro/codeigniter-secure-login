@@ -1,6 +1,6 @@
 # codeigniter-secure-login
 
-###Description
+### Description
 
 An simple secure login solution using MySQL SP for CodeIgniter 3.x.
 
@@ -8,9 +8,9 @@ This is intended to be a collection of libraries and database structures designe
 
 The main goal of this is to create a database user with execute database access only, authenticate using only stored procedures in MySQL, then set session data appropriatly. 
 
-##Current version Alpha 1.0
+## Current version Alpha 1.0
 
-###Table of Contents
+### Table of Contents
 
 1. What's the plan
 1. Installation (To be added)
@@ -19,7 +19,7 @@ The main goal of this is to create a database user with execute database access 
 1. Credits
 1. Licence
 
-###1. So ...... What's the Plan?
+### 1. So ...... What's the Plan?
 
 **The initial main components of this little project should be**:
 	* a login library that contains all of the methods for login, logged in check and logout.
@@ -38,23 +38,23 @@ The main goal of this is to create a database user with execute database access 
 	* Two-factor authentication.
 	* More I can't think of right now...
 	
-###2. Installation
+### 2. Installation
 
 This is where the installation instructions will be.
 
-###3. Usage 
+### 3. Usage 
 
 This is where the usage information will be.
 
-###4. Contributing
+### 4. Contributing
 
 This is where the contributing instructions will be.
 
-###5. Credits.
+### 5. Credits.
 
 So far, just me:(
 
-###6. License
+### 6. License
 
 Free!. Download it and use it as you please!. I mean, I would appreciate a tweet or a mention, but it is totally not neccessary. 
 
